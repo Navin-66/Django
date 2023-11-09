@@ -6,6 +6,7 @@ from .forms import ListForm
 
 from django.http import JsonResponse
 from botbuilder.schema import Activity
+import aiohttp
 
 from botbuilder.core import BotFrameworkAdapter
 
