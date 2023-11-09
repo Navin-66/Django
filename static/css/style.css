@@ -1,0 +1,21 @@
+.content {
+    margin-top: 5%;
+}
+
+
+.striker {
+    text-decoration: line-through;
+}
+
+.form-inline .form-control {
+    background-color: rgb(26, 23, 23); /* Red background for the search bar */
+    color: white; /* White text color for better visibility */
+}
+
+.form-inline .btn-outline-secondary {
+    background-color: green; /* Green background for the button */
+    border-color: green; /* Border color same as the background color for a solid button */
+    color: white; /* White text color for the button */
+}
+
+
