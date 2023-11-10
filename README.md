@@ -99,3 +99,5 @@ This Django Todo App is a simple yet effective task management system developed 
 1. **Create a new chatbot service in the Azure portal.**
 2. **Configure the chatbot and integrate it with your Django app for task management or user interactions.**
 
+
+
