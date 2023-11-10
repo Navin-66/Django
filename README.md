@@ -87,6 +87,12 @@ This Django Todo App is a simple yet effective task management system developed 
 
 1. **Create a new web app service in the Azure portal.**
 2. **Configure the web app and deploy your Django app using Git, GitHub Actions, or any preferred deployment method.**
+![NAVEEN1](https://github.com/Navin-66/Django/assets/113427260/87dcd99c-bd3d-46a9-9520-fba2692fdf06)
+![NAVEEN2](https://github.com/Navin-66/Django/assets/113427260/c7770caa-7d7b-442a-95cf-3568021fe346)
+![NAVEEN3](https://github.com/Navi
+![NAVEEN4](https://github.com/Navin-66/Django/assets/113427260/75cc4b2c-2764-4281-8738-cf6a56a88030)
+n-66/Django/assets/113427260/d1b80f89-0c95-4c14-a6b4-7916f380d659)
+
 
 ### Integrate Azure Chatbot Service
 
