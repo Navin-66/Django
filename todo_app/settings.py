@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-l80arx#auha@m#-&9kuj#b$61yeh2ly!gnr$8oy(43!s2wfq2^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['aztodoapp.azurewebsites.net','127.0.0.1']
+ALLOWED_HOSTS = ['todoappmagic.azurewebsites.net','127.0.0.1']
 
 
 # Application definition
